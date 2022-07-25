@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """ 
-Created on 26/06/19
+Find the zero point
 """
 from __future__ import print_function, division
 
