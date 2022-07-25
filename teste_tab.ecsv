@@ -1,0 +1,78 @@
+# %ECSV 1.0
+# ---
+# datatype:
+# - {name: Field, datatype: string}
+# - {name: ID, datatype: string}
+# - {name: RA, datatype: float64}
+# - {name: DEC, datatype: float64}
+# - {name: FWHM, datatype: float32}
+# - {name: ISOarea, datatype: int32}
+# - {name: KRON_RADIUS, datatype: float32}
+# - {name: MU_MAX, datatype: float32}
+# - {name: nDet_PStotal, datatype: float32}
+# - {name: PhotoFlagDet, datatype: int64}
+# - {name: u_PStotal, datatype: float32}
+# - {name: J0378_PStotal, datatype: float32}
+# - {name: J0395_PStotal, datatype: float32}
+# - {name: J0410_PStotal, datatype: float32}
+# - {name: J0430_PStotal, datatype: float32}
+# - {name: g_PStotal, datatype: float32}
+# - {name: J0515_PStotal, datatype: float32}
+# - {name: r_PStotal, datatype: float32}
+# - {name: J0660_PStotal, datatype: float32}
+# - {name: i_PStotal, datatype: float32}
+# - {name: J0861_PStotal, datatype: float32}
+# - {name: z_PStotal, datatype: float32}
+# - {name: e_u_PStotal, datatype: float32}
+# - {name: e_J0378_PStotal, datatype: float32}
+# - {name: e_J0395_PStotal, datatype: float32}
+# - {name: e_J0410_PStotal, datatype: float32}
+# - {name: e_J0430_PStotal, datatype: float32}
+# - {name: e_g_PStotal, datatype: float32}
+# - {name: e_J0515_PStotal, datatype: float32}
+# - {name: e_r_PStotal, datatype: float32}
+# - {name: e_J0660_PStotal, datatype: float32}
+# - {name: e_i_PStotal, datatype: float32}
+# - {name: e_J0861_PStotal, datatype: float32}
+# - {name: e_z_PStotal, datatype: float32}
+# meta: !!omap
+# - {TCOMM1: description}
+# - {TCOMM2: description}
+# - {TCOMM3: description}
+# - {TCOMM4: description}
+# - {TCOMM5: description}
+# - {TCOMM6: description}
+# - {TCOMM7: description}
+# - {TCOMM8: description}
+# - {TCOMM9: description}
+# - {TCOMM10: description}
+# - {TCOMM11: description}
+# - {TCOMM12: description}
+# - {TCOMM13: description}
+# - {TCOMM14: description}
+# - {TCOMM15: description}
+# - {TCOMM16: description}
+# - {TCOMM17: description}
+# - {TCOMM18: description}
+# - {TCOMM19: description}
+# - {TCOMM20: description}
+# - {TCOMM21: description}
+# - {TCOMM22: description}
+# - {TCOMM23: description}
+# - {TCOMM24: description}
+# - {TCOMM25: description}
+# - {TCOMM26: description}
+# - {TCOMM27: description}
+# - {TCOMM28: description}
+# - {TCOMM29: description}
+# - {TCOMM30: description}
+# - {TCOMM31: description}
+# - {TCOMM32: description}
+# - {TCOMM33: description}
+# - {TCOMM34: description}
+# - {DATE-HDU: '2021-11-19T02:36:54'}
+# - {STILVERS: 3.3-2}
+# - {STILCLAS: uk.ac.starlink.fits.FitsTableWriter}
+# schema: astropy-2.0
+Field ID RA DEC FWHM ISOarea KRON_RADIUS MU_MAX nDet_PStotal PhotoFlagDet u_PStotal J0378_PStotal J0395_PStotal J0410_PStotal J0430_PStotal g_PStotal J0515_PStotal r_PStotal J0660_PStotal i_PStotal J0861_PStotal z_PStotal e_u_PStotal e_J0378_PStotal e_J0395_PStotal e_J0410_PStotal e_J0430_PStotal e_g_PStotal e_J0515_PStotal e_r_PStotal e_J0660_PStotal e_i_PStotal e_J0861_PStotal e_z_PStotal
+HYDRA-0145 iDR3.HYDRA-0145.120355 151.43677112272033 -44.36140692726743 17.644045 300 5.5259476 15.69055 12.0 3 20.750679 20.750854 21.919107 21.493452 20.77436 20.100037 21.364246 20.312132 18.258095 21.118952 21.294529 20.731363 0.14252785 0.2075188 0.8758834 0.48084813 0.2350114 0.04856833 0.31567883 0.061698087 0.015447452 0.17292136 0.46106413 0.22915219
