@@ -5,7 +5,6 @@ Find the zero point
 from __future__ import print_function, division
 
 import os
-
 import numpy as np
 from astropy.table import Table
 from astropy.io import fits
